@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="225" viewBox="0 0 800 225">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #c41c5b;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 83.333px;
+        fill-rule: evenodd;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        font-size: 100px;
+        fill: #f4eeee;
+        font-family: Montserrat;
+        font-weight: 600;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="133" y1="182" x2="133" y2="65" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard 1">
+    <path class="cls-1" d="M133,65c35.9,0,65,26.191,65,58.5S168.9,182,133,182s-65-26.191-65-58.5S97.1,65,133,65Z"/>
+    <text id="md_christien" data-name="md christien" class="cls-2" x="148" y="141.875">md christien</text>
+  </g>
+</svg>
